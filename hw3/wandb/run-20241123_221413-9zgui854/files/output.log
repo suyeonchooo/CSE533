@@ -1,0 +1,6 @@
+
+Training on device cuda:0.
+WandB: True
+Batch size: 2048
+learning rate: 0.001
+Validation interval: 10

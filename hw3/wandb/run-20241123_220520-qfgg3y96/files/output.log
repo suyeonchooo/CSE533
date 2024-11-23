@@ -1,0 +1,6 @@
+
+Training on device cuda:0.
+Num Train Samples:  55000
+Num Validation Samples:  5000
+Sample Shape:  torch.Size([1, 28, 28])
+Number of Data Loading Workers: 20

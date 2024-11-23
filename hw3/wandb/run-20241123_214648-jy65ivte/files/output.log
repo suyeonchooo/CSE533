@@ -1,0 +1,12 @@
+
+Training on device cuda:0.
+WandB: True
+Batch size: 2048
+WandB: True
+Batch size: 2048
+learning rate: 0.001
+Validation interval: 10
+Num Train Samples:  55000
+Num Validation Samples:  5000
+Sample Shape:  torch.Size([1, 28, 28])
+Number of Data Loading Workers: 20

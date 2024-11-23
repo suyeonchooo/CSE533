@@ -1,0 +1,5 @@
+
+Training on device cuda:0.
+[Epoch   1] T_loss: 2.31928, T_accuracy: 9.6600 | V_loss: 2.31066, V_accuracy: 9.7800 | Early stopping is stated! | T_time: 00:00:02, T_speed: 0.500
+[Epoch  10] T_loss: 2.09811, T_accuracy: 40.9145 | V_loss: 2.07854, V_accuracy: 42.9000 | V_loss decreased (2.31066 --> 2.07854). Saving model... | T_time: 00:00:15, T_speed: 0.667
+Final training time: 00:00:15

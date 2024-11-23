@@ -1,0 +1,7 @@
+
+Training on device cuda:0.
+[Epoch   1] T_loss: 2.25750, T_accuracy: 20.7836 | V_loss: 2.23625, V_accuracy: 23.0000 | Early stopping is stated! | T_time: 00:00:06, T_speed: 0.167
+WandB: True
+Batch size: 2048
+learning rate: 0.001
+Validation interval: 10

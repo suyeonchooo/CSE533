@@ -1,0 +1,74 @@
+2024-11-23 22:05:20,353 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-11-23 22:05:20,353 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] Configure stats pid to 1174346
+2024-11-23 22:05:20,353 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] Loading settings from /home/nlp-05/.config/wandb/settings
+2024-11-23 22:05:20,354 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] Loading settings from /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw3/wandb/settings
+2024-11-23 22:05:20,354 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-23 22:05:20,354 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': 'disabled', '_disable_service': None}
+2024-11-23 22:05:20,354 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-23 22:05:20,359 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] calling init triggers
+2024-11-23 22:05:20,359 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] wandb.init called with sweep_config: {}
+config: {'batch_size': 2048}
+2024-11-23 22:05:20,359 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] calling init triggers
+2024-11-23 22:05:20,359 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] wandb.init called with sweep_config: {}
+config: {'batch_size': 2048}
+2024-11-23 22:05:20,359 INFO    MainThread:1174346 [wandb_init.py:_log_setup():534] Logging user logs to /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw3/wandb/run-20241123_220520-qfgg3y96/logs/debug.log
+2024-11-23 22:05:20,360 INFO    MainThread:1174346 [wandb_init.py:_log_setup():535] Logging internal logs to /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw3/wandb/run-20241123_220520-qfgg3y96/logs/debug-internal.log
+2024-11-23 22:05:20,361 INFO    MainThread:1174346 [wandb_init.py:init():621] calling init triggers
+2024-11-23 22:05:20,361 INFO    MainThread:1174346 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {'wandb': True, 'batch_size': 2048, 'learning_rate': 0.001, 'validation_interval': 10, 'checkpoint_file_path': '/data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw3/checkpoints'}
+2024-11-23 22:05:20,361 INFO    MainThread:1174346 [wandb_init.py:init():646] re-initializing run, found existing run on stack: mt99c8b3
+2024-11-23 22:05:20,363 INFO    MainThread:1174346 [wandb_run.py:_finish():2158] finishing run chosuyeon-korea-university-of-technology-and-education/cnn_fashion_mnist/mt99c8b3
+2024-11-23 22:05:20,367 ERROR   MainThread:1174346 [jupyter.py:save_history():451] Run pip install nbformat to save notebook history
+2024-11-23 22:05:20,367 INFO    MainThread:1174346 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-23 22:05:20,367 INFO    MainThread:1174346 [wandb_init.py:_jupyter_teardown():462] cleaning up jupyter logic
+2024-11-23 22:05:20,368 INFO    MainThread:1174346 [wandb_run.py:_atexit_cleanup():2426] got exitcode: 0
+2024-11-23 22:05:20,368 INFO    MainThread:1174346 [wandb_run.py:_restore():2408] restore
+2024-11-23 22:05:20,369 INFO    MainThread:1174346 [wandb_run.py:_restore():2414] restore done
+2024-11-23 22:05:27,601 INFO    MainThread:1174346 [wandb_run.py:_footer_history_summary_info():3975] rendering history
+2024-11-23 22:05:27,601 INFO    MainThread:1174346 [wandb_run.py:_footer_history_summary_info():4007] rendering summary
+2024-11-23 22:05:27,612 INFO    MainThread:1174346 [wandb_run.py:_footer_sync_info():3934] logging synced files
+2024-11-23 22:05:27,618 INFO    MainThread:1174346 [wandb_init.py:init():671] starting backend
+2024-11-23 22:05:27,619 INFO    MainThread:1174346 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-11-23 22:05:27,625 INFO    MainThread:1174346 [backend.py:ensure_launched():188] starting backend process...
+2024-11-23 22:05:27,627 INFO    MainThread:1174346 [backend.py:ensure_launched():193] started backend process with pid: 1178435
+2024-11-23 22:05:27,628 INFO    MainThread:1174346 [wandb_init.py:init():688] backend started and connected
+2024-11-23 22:05:27,631 INFO    MainThread:1174346 [wandb_run.py:_label_probe_notebook():1342] probe notebook
+2024-11-23 22:05:27,632 INFO    MainThread:1174346 [wandb_init.py:init():783] updated telemetry
+2024-11-23 22:05:27,640 INFO    MainThread:1174346 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2024-11-23 22:05:28,611 INFO    MainThread:1174346 [wandb_init.py:init():867] starting run threads in backend
+2024-11-23 22:05:30,479 INFO    MainThread:1174346 [wandb_run.py:_console_start():2463] atexit reg
+2024-11-23 22:05:30,479 INFO    MainThread:1174346 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2024-11-23 22:05:30,479 INFO    MainThread:1174346 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2024-11-23 22:05:30,480 INFO    MainThread:1174346 [wandb_run.py:_redirect():2401] Redirects installed.
+2024-11-23 22:05:30,481 INFO    MainThread:1174346 [wandb_init.py:init():911] run started, returning control to user process
+2024-11-23 22:05:30,491 INFO    MainThread:1174346 [wandb_watch.py:_watch():71] Watching
+2024-11-23 22:06:32,875 INFO    MainThread:1174346 [wandb_init.py:init():621] calling init triggers
+2024-11-23 22:06:32,875 INFO    MainThread:1174346 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {'wandb': True, 'batch_size': 2048, 'learning_rate': 0.001, 'validation_interval': 10, 'checkpoint_file_path': '/data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw3/checkpoints'}
+2024-11-23 22:06:32,978 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2024-11-23 22:06:32,978 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] Configure stats pid to 1174346
+2024-11-23 22:06:32,979 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] Loading settings from /home/nlp-05/.config/wandb/settings
+2024-11-23 22:06:32,979 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] Loading settings from /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw3/wandb/settings
+2024-11-23 22:06:32,979 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-23 22:06:32,979 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': 'disabled', '_disable_service': None}
+2024-11-23 22:06:32,980 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-23 22:06:32,985 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] calling init triggers
+2024-11-23 22:06:32,985 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] wandb.init called with sweep_config: {}
+config: {'batch_size': 2048}
+2024-11-23 22:06:32,985 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] calling init triggers
+2024-11-23 22:06:32,985 INFO    MainThread:1174346 [wandb_setup.py:_flush():79] wandb.init called with sweep_config: {}
+config: {'batch_size': 2048}
+2024-11-23 22:06:32,985 INFO    MainThread:1174346 [wandb_init.py:_log_setup():534] Logging user logs to /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw3/wandb/run-20241123_220632-b9wnh6ay/logs/debug.log
+2024-11-23 22:06:32,987 INFO    MainThread:1174346 [wandb_init.py:_log_setup():535] Logging internal logs to /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw3/wandb/run-20241123_220632-b9wnh6ay/logs/debug-internal.log
+2024-11-23 22:06:32,987 INFO    MainThread:1174346 [wandb_init.py:_jupyter_setup():480] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f9fdc82f2e0>
+2024-11-23 22:06:32,988 INFO    MainThread:1174346 [wandb_init.py:init():621] calling init triggers
+2024-11-23 22:06:32,988 INFO    MainThread:1174346 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {'wandb': True, 'batch_size': 2048, 'learning_rate': 0.001, 'validation_interval': 10, 'checkpoint_file_path': '/data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw3/checkpoints'}
+2024-11-23 22:06:32,988 INFO    MainThread:1174346 [wandb_init.py:init():646] re-initializing run, found existing run on stack: qfgg3y96
+2024-11-23 22:06:32,991 INFO    MainThread:1174346 [wandb_run.py:_finish():2158] finishing run chosuyeon-korea-university-of-technology-and-education/cnn_fashion_mnist/qfgg3y96
+2024-11-23 22:06:32,992 INFO    MainThread:1174346 [wandb_run.py:_atexit_cleanup():2426] got exitcode: 0
+2024-11-23 22:06:32,993 INFO    MainThread:1174346 [wandb_run.py:_restore():2408] restore
+2024-11-23 22:06:32,994 INFO    MainThread:1174346 [wandb_run.py:_restore():2414] restore done
+2024-11-23 22:06:40,964 INFO    MainThread:1174346 [wandb_run.py:_footer_history_summary_info():3975] rendering history
+2024-11-23 22:06:40,965 INFO    MainThread:1174346 [wandb_run.py:_footer_history_summary_info():4007] rendering summary
+2024-11-23 22:06:40,971 INFO    MainThread:1174346 [wandb_run.py:_footer_sync_info():3934] logging synced files
