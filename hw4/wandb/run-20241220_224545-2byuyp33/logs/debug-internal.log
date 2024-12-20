@@ -1,0 +1,17 @@
+{"time":"2024-12-20T22:45:45.700614267+09:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-20T22:45:45.700645518+09:00","level":"INFO","msg":"created symlink","path":"/data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/run-20241220_224545-2byuyp33/logs/debug-core.log"}
+{"time":"2024-12-20T22:45:45.91916487+09:00","level":"INFO","msg":"created new stream","id":"2byuyp33"}
+{"time":"2024-12-20T22:45:45.91919533+09:00","level":"INFO","msg":"stream: started","id":"2byuyp33"}
+{"time":"2024-12-20T22:45:45.919344919+09:00","level":"INFO","msg":"handler: started","stream_id":"2byuyp33"}
+{"time":"2024-12-20T22:45:45.91928865+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"2byuyp33"}
+{"time":"2024-12-20T22:45:45.91930713+09:00","level":"INFO","msg":"sender: started","stream_id":"2byuyp33"}
+{"time":"2024-12-20T22:45:46.311956234+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-20T22:48:26.692144305+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-20T22:48:26.693178165+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-20T22:48:27.671376114+09:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.252310591,"progress":"771B/771B"},{"desc":"uploading output.log","runtime_seconds":0.252299721,"progress":"25.5KB/25.5KB"}],"total_operations":2}}
+{"time":"2024-12-20T22:48:27.917208853+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-20T22:48:29.241248653+09:00","level":"INFO","msg":"stream: closing","id":"2byuyp33"}
+{"time":"2024-12-20T22:48:29.241297363+09:00","level":"INFO","msg":"handler: closed","stream_id":"2byuyp33"}
+{"time":"2024-12-20T22:48:29.241319403+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"2byuyp33"}
+{"time":"2024-12-20T22:48:29.241373353+09:00","level":"INFO","msg":"sender: closed","stream_id":"2byuyp33"}
+{"time":"2024-12-20T22:48:29.246998993+09:00","level":"INFO","msg":"stream: closed","id":"2byuyp33"}

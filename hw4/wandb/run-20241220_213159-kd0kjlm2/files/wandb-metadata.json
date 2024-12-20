@@ -1,0 +1,82 @@
+{
+  "os":  "Linux-5.15.0-125-generic-x86_64-with-glibc2.31",
+  "python":  "CPython 3.10.16",
+  "startedAt":  "2024-12-20T12:31:59.523317Z",
+  "program":  "/home/nlp-05/data_server/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/homework4.ipynb",
+  "git":  {
+    "remote":  "https://github.com/suyeonchooo/CSE533.git",
+    "commit":  "ab1083647835cedb57d5780362b8ed4add28d418"
+  },
+  "email":  "chosy080709@gmail.com",
+  "root":  "/data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4",
+  "host":  "DICE-56",
+  "executable":  "/home/nlp-05/anaconda3/envs/DL/bin/python",
+  "cpu_count":  48,
+  "cpu_count_logical":  48,
+  "gpu":  "NVIDIA RTX A6000",
+  "gpu_count":  8,
+  "disk":  {
+    "/":  {
+      "total":  "1888559353856",
+      "used":  "1164920221696"
+    }
+  },
+  "memory":  {
+    "total":  "270304047104"
+  },
+  "cpu":  {
+    "count":  48,
+    "countLogical":  48
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA RTX A6000",
+      "memoryTotal":  "51527024640",
+      "cudaCores":  10752,
+      "architecture":  "Ampere"
+    },
+    {
+      "name":  "NVIDIA RTX A6000",
+      "memoryTotal":  "51527024640",
+      "cudaCores":  10752,
+      "architecture":  "Ampere"
+    },
+    {
+      "name":  "NVIDIA RTX A6000",
+      "memoryTotal":  "51527024640",
+      "cudaCores":  10752,
+      "architecture":  "Ampere"
+    },
+    {
+      "name":  "NVIDIA RTX A6000",
+      "memoryTotal":  "51527024640",
+      "cudaCores":  10752,
+      "architecture":  "Ampere"
+    },
+    {
+      "name":  "NVIDIA RTX A6000",
+      "memoryTotal":  "51527024640",
+      "cudaCores":  10752,
+      "architecture":  "Ampere"
+    },
+    {
+      "name":  "NVIDIA RTX A6000",
+      "memoryTotal":  "51527024640",
+      "cudaCores":  10752,
+      "architecture":  "Ampere"
+    },
+    {
+      "name":  "NVIDIA RTX A6000",
+      "memoryTotal":  "51527024640",
+      "cudaCores":  10752,
+      "architecture":  "Ampere"
+    },
+    {
+      "name":  "NVIDIA RTX A6000",
+      "memoryTotal":  "51527024640",
+      "cudaCores":  10752,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.2"
+}

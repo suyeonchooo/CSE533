@@ -1,0 +1,17 @@
+{"time":"2024-12-20T22:31:12.237051484+09:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-20T22:31:12.237089084+09:00","level":"INFO","msg":"created symlink","path":"/data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/run-20241220_223112-hgm9jba8/logs/debug-core.log"}
+{"time":"2024-12-20T22:31:12.457168322+09:00","level":"INFO","msg":"created new stream","id":"hgm9jba8"}
+{"time":"2024-12-20T22:31:12.457199632+09:00","level":"INFO","msg":"stream: started","id":"hgm9jba8"}
+{"time":"2024-12-20T22:31:12.457232592+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"hgm9jba8"}
+{"time":"2024-12-20T22:31:12.457267232+09:00","level":"INFO","msg":"handler: started","stream_id":"hgm9jba8"}
+{"time":"2024-12-20T22:31:12.457300892+09:00","level":"INFO","msg":"sender: started","stream_id":"hgm9jba8"}
+{"time":"2024-12-20T22:31:12.841674564+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-20T22:32:27.178084553+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-20T22:32:27.179124454+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-20T22:32:28.181193904+09:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.289781242,"progress":"768B/768B"}],"total_operations":1}}
+{"time":"2024-12-20T22:32:28.295187729+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-20T22:32:29.598449754+09:00","level":"INFO","msg":"stream: closing","id":"hgm9jba8"}
+{"time":"2024-12-20T22:32:29.598485734+09:00","level":"INFO","msg":"handler: closed","stream_id":"hgm9jba8"}
+{"time":"2024-12-20T22:32:29.598512844+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"hgm9jba8"}
+{"time":"2024-12-20T22:32:29.598587304+09:00","level":"INFO","msg":"sender: closed","stream_id":"hgm9jba8"}
+{"time":"2024-12-20T22:32:29.599818385+09:00","level":"INFO","msg":"stream: closed","id":"hgm9jba8"}

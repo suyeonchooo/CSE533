@@ -1,0 +1,78 @@
+2024-12-20 23:08:18,510 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Current SDK version is 0.19.1
+2024-12-20 23:08:18,511 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Configure stats pid to 42112
+2024-12-20 23:08:18,512 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Loading settings from /home/nlp-05/.config/wandb/settings
+2024-12-20 23:08:18,513 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Loading settings from /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/settings
+2024-12-20 23:08:18,514 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2024-12-20 23:08:18,516 INFO    MainThread:42112 [wandb_init.py:_log_setup():528] Logging user logs to /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/run-20241220_230818-zxvxz2tw/logs/debug.log
+2024-12-20 23:08:18,517 INFO    MainThread:42112 [wandb_init.py:_log_setup():529] Logging internal logs to /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/run-20241220_230818-zxvxz2tw/logs/debug-internal.log
+2024-12-20 23:08:18,518 INFO    MainThread:42112 [wandb_init.py:init():644] calling init triggers
+2024-12-20 23:08:18,519 INFO    MainThread:42112 [wandb_init.py:init():650] wandb.init called with sweep_config: {}
+config: {'epochs': 10000, 'batch_size': 2048, 'validation_intervals': 30, 'learning_rate': 0.0001, 'early_stop_patience': 30, 'early_stop_delta': 1e-06, 'weight_decay': 0.0001}
+2024-12-20 23:08:18,520 INFO    MainThread:42112 [wandb_init.py:init():675] wandb.init() called when a run is still active
+2024-12-20 23:10:46,723 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Current SDK version is 0.19.1
+2024-12-20 23:10:46,726 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Configure stats pid to 42112
+2024-12-20 23:10:46,729 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Loading settings from /home/nlp-05/.config/wandb/settings
+2024-12-20 23:10:46,729 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Loading settings from /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/settings
+2024-12-20 23:10:46,734 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2024-12-20 23:10:46,734 INFO    MainThread:42112 [wandb_init.py:_log_setup():528] Logging user logs to /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/run-20241220_231046-an7rz095/logs/debug.log
+2024-12-20 23:10:46,743 INFO    MainThread:42112 [wandb_init.py:_log_setup():529] Logging internal logs to /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/run-20241220_231046-an7rz095/logs/debug-internal.log
+2024-12-20 23:10:46,744 INFO    MainThread:42112 [wandb_init.py:init():644] calling init triggers
+2024-12-20 23:10:46,749 INFO    MainThread:42112 [wandb_init.py:init():650] wandb.init called with sweep_config: {}
+config: {'epochs': 10000, 'batch_size': 2048, 'validation_intervals': 30, 'learning_rate': 1e-05, 'early_stop_patience': 100, 'early_stop_delta': 1e-06, 'weight_decay': 0.0001}
+2024-12-20 23:10:46,749 INFO    MainThread:42112 [wandb_init.py:init():675] wandb.init() called when a run is still active
+2024-12-20 23:11:00,069 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Current SDK version is 0.19.1
+2024-12-20 23:11:00,070 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Configure stats pid to 42112
+2024-12-20 23:11:00,075 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Loading settings from /home/nlp-05/.config/wandb/settings
+2024-12-20 23:11:00,081 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Loading settings from /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/settings
+2024-12-20 23:11:00,082 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2024-12-20 23:11:00,083 INFO    MainThread:42112 [wandb_init.py:_log_setup():528] Logging user logs to /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/run-20241220_231100-8i5poc76/logs/debug.log
+2024-12-20 23:11:00,088 INFO    MainThread:42112 [wandb_init.py:_log_setup():529] Logging internal logs to /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/run-20241220_231100-8i5poc76/logs/debug-internal.log
+2024-12-20 23:11:00,094 INFO    MainThread:42112 [wandb_init.py:init():644] calling init triggers
+2024-12-20 23:11:00,095 INFO    MainThread:42112 [wandb_init.py:init():650] wandb.init called with sweep_config: {}
+config: {'epochs': 10000, 'batch_size': 2048, 'validation_intervals': 30, 'learning_rate': 0.0001, 'early_stop_patience': 100, 'early_stop_delta': 1e-06, 'weight_decay': 0.0001}
+2024-12-20 23:11:00,096 INFO    MainThread:42112 [wandb_init.py:init():675] wandb.init() called when a run is still active
+2024-12-20 23:11:06,376 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Current SDK version is 0.19.1
+2024-12-20 23:11:06,376 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Configure stats pid to 42112
+2024-12-20 23:11:06,377 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Loading settings from /home/nlp-05/.config/wandb/settings
+2024-12-20 23:11:06,379 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Loading settings from /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/settings
+2024-12-20 23:11:06,380 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2024-12-20 23:11:06,381 INFO    MainThread:42112 [wandb_init.py:_log_setup():528] Logging user logs to /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/run-20241220_231106-hj76ppkl/logs/debug.log
+2024-12-20 23:11:06,382 INFO    MainThread:42112 [wandb_init.py:_log_setup():529] Logging internal logs to /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/run-20241220_231106-hj76ppkl/logs/debug-internal.log
+2024-12-20 23:11:06,383 INFO    MainThread:42112 [wandb_init.py:init():644] calling init triggers
+2024-12-20 23:11:06,384 INFO    MainThread:42112 [wandb_init.py:init():650] wandb.init called with sweep_config: {}
+config: {'epochs': 10000, 'batch_size': 2048, 'validation_intervals': 30, 'learning_rate': 0.0001, 'early_stop_patience': 30, 'early_stop_delta': 1e-06, 'weight_decay': 0.0001}
+2024-12-20 23:11:06,385 INFO    MainThread:42112 [wandb_init.py:init():675] wandb.init() called when a run is still active
+2024-12-20 23:13:38,776 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Current SDK version is 0.19.1
+2024-12-20 23:13:38,780 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Configure stats pid to 42112
+2024-12-20 23:13:38,783 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Loading settings from /home/nlp-05/.config/wandb/settings
+2024-12-20 23:13:38,783 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Loading settings from /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/settings
+2024-12-20 23:13:38,788 INFO    MainThread:42112 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2024-12-20 23:13:38,789 INFO    MainThread:42112 [wandb_init.py:_log_setup():528] Logging user logs to /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/run-20241220_231338-d5cnvw9e/logs/debug.log
+2024-12-20 23:13:38,794 INFO    MainThread:42112 [wandb_init.py:_log_setup():529] Logging internal logs to /data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/run-20241220_231338-d5cnvw9e/logs/debug-internal.log
+2024-12-20 23:13:38,795 INFO    MainThread:42112 [wandb_init.py:init():644] calling init triggers
+2024-12-20 23:13:38,800 INFO    MainThread:42112 [wandb_init.py:init():650] wandb.init called with sweep_config: {}
+config: {'epochs': 10000, 'batch_size': 2048, 'validation_intervals': 30, 'learning_rate': 1e-05, 'early_stop_patience': 100, 'early_stop_delta': 1e-06, 'weight_decay': 0.0001}
+2024-12-20 23:13:38,801 INFO    MainThread:42112 [wandb_init.py:init():680] starting backend
+2024-12-20 23:13:38,801 INFO    MainThread:42112 [wandb_init.py:init():684] sending inform_init request
+2024-12-20 23:13:38,808 INFO    MainThread:42112 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-12-20 23:13:38,810 INFO    MainThread:42112 [wandb_init.py:init():697] backend started and connected
+2024-12-20 23:13:38,818 INFO    MainThread:42112 [wandb_run.py:_label_probe_notebook():1222] probe notebook
+2024-12-20 23:13:38,834 INFO    MainThread:42112 [wandb_init.py:init():790] updated telemetry
+2024-12-20 23:13:38,867 INFO    MainThread:42112 [wandb_init.py:init():822] communicating run to backend with 90.0 second timeout
+2024-12-20 23:13:39,548 INFO    MainThread:42112 [wandb_init.py:init():874] starting run threads in backend
+2024-12-20 23:13:39,647 INFO    MainThread:42112 [wandb_run.py:_console_start():2374] atexit reg
+2024-12-20 23:13:39,648 INFO    MainThread:42112 [wandb_run.py:_redirect():2224] redirect: wrap_raw
+2024-12-20 23:13:39,648 INFO    MainThread:42112 [wandb_run.py:_redirect():2289] Wrapping output streams.
+2024-12-20 23:13:39,649 INFO    MainThread:42112 [wandb_run.py:_redirect():2314] Redirects installed.
+2024-12-20 23:13:39,649 INFO    MainThread:42112 [wandb_init.py:init():916] run started, returning control to user process
+2024-12-20 23:13:39,651 INFO    MainThread:42112 [wandb_run.py:_config_callback():1279] config_cb None None {'wandb': True, 'batch_size': 2048, 'epochs': 10000, 'learning_rate': 1e-05, 'weight_decay': 0.0001, 'validation_intervals': 30, 'early_stop_patience': 100, 'early_stop_delta': 1e-06}
+2024-12-20 23:15:10,615 INFO    MainThread:42112 [wandb_run.py:_finish():2100] finishing run chosuyeon-korea-university-of-technology-and-education/lstm_classification_btc_krw/d5cnvw9e
+2024-12-20 23:15:10,619 INFO    MainThread:42112 [wandb_run.py:_atexit_cleanup():2339] got exitcode: 0
+2024-12-20 23:15:10,626 INFO    MainThread:42112 [wandb_run.py:_restore():2321] restore
+2024-12-20 23:15:10,631 INFO    MainThread:42112 [wandb_run.py:_restore():2327] restore done
+2024-12-20 23:15:12,970 INFO    MainThread:42112 [wandb_run.py:_footer_history_summary_info():3892] rendering history
+2024-12-20 23:15:12,971 INFO    MainThread:42112 [wandb_run.py:_footer_history_summary_info():3924] rendering summary
+2024-12-20 23:15:12,992 INFO    MainThread:42112 [wandb_run.py:_footer_sync_info():3853] logging synced files
+2024-12-20 23:20:36,099 INFO    MainThread:42112 [wandb_init.py:init():644] calling init triggers
+2024-12-20 23:20:36,103 INFO    MainThread:42112 [wandb_init.py:init():650] wandb.init called with sweep_config: {}
+config: {'epochs': 10000, 'batch_size': 2048, 'validation_intervals': 30, 'learning_rate': 1e-05, 'early_stop_patience': 100, 'early_stop_delta': 1e-06}

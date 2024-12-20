@@ -1,0 +1,42 @@
+_wandb:
+    value:
+        cli_version: 0.19.1
+        m: []
+        python_version: 3.10.16
+        t:
+            "1":
+                - 1
+                - 55
+            "2":
+                - 1
+                - 55
+            "3":
+                - 2
+                - 13
+                - 15
+                - 16
+                - 23
+                - 55
+            "4": 3.10.16
+            "5": 0.19.1
+            "8":
+                - 1
+                - 5
+            "12": 0.19.1
+            "13": linux-x86_64
+batch_size:
+    value: 2048
+early_stop_delta:
+    value: 1e-06
+early_stop_patience:
+    value: 100
+epochs:
+    value: 10000
+learning_rate:
+    value: 1e-05
+validation_intervals:
+    value: 30
+wandb:
+    value: true
+weight_decay:
+    value: 0.0001

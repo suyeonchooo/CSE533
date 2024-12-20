@@ -1,0 +1,17 @@
+{"time":"2024-12-20T22:25:46.38285178+09:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-20T22:25:46.38288912+09:00","level":"INFO","msg":"created symlink","path":"/data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl/_03_your_code/CSE533/hw4/wandb/run-20241220_222546-wk19jbnj/logs/debug-core.log"}
+{"time":"2024-12-20T22:25:46.614914654+09:00","level":"INFO","msg":"created new stream","id":"wk19jbnj"}
+{"time":"2024-12-20T22:25:46.614965274+09:00","level":"INFO","msg":"stream: started","id":"wk19jbnj"}
+{"time":"2024-12-20T22:25:46.615061094+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"wk19jbnj"}
+{"time":"2024-12-20T22:25:46.615095395+09:00","level":"INFO","msg":"handler: started","stream_id":"wk19jbnj"}
+{"time":"2024-12-20T22:25:46.615179615+09:00","level":"INFO","msg":"sender: started","stream_id":"wk19jbnj"}
+{"time":"2024-12-20T22:25:47.129428687+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-20T22:26:23.18084755+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-20T22:26:23.181790121+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-20T22:26:24.061249389+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-20T22:26:24.183418818+09:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 53-63, summary, console lines 56-67","runtime_seconds":0.121945079}],"total_operations":1}}
+{"time":"2024-12-20T22:26:25.399558618+09:00","level":"INFO","msg":"stream: closing","id":"wk19jbnj"}
+{"time":"2024-12-20T22:26:25.399612948+09:00","level":"INFO","msg":"handler: closed","stream_id":"wk19jbnj"}
+{"time":"2024-12-20T22:26:25.399640228+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"wk19jbnj"}
+{"time":"2024-12-20T22:26:25.399677148+09:00","level":"INFO","msg":"sender: closed","stream_id":"wk19jbnj"}
+{"time":"2024-12-20T22:26:25.401075849+09:00","level":"INFO","msg":"stream: closed","id":"wk19jbnj"}

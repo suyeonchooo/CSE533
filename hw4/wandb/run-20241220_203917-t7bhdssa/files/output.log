@@ -1,0 +1,141 @@
+Namespace(wandb=True, batch_size=2048, epochs=10000, learning_rate=0.0001, weight_decay=0.0, validation_intervals=30, early_stop_patience=30, early_stop_delta=1e-06)
+{'epochs': 10000, 'batch_size': 2048, 'validation_intervals': 30, 'learning_rate': 0.0001, 'early_stop_patience': 30, 'early_stop_delta': 1e-06, 'weight_decay': 0.0}
+Namespace(wandb=True, batch_size=2048, epochs=10000, learning_rate=0.0001, weight_decay=0.0, validation_intervals=30, early_stop_patience=30, early_stop_delta=1e-06)
+{'epochs': 10000, 'batch_size': 2048, 'validation_intervals': 30, 'learning_rate': 0.0001, 'early_stop_patience': 30, 'early_stop_delta': 1e-06, 'weight_decay': 0.0}
+Namespace(wandb=True, batch_size=2048, epochs=10000, learning_rate=0.0001, weight_decay=0.0, validation_intervals=30, early_stop_patience=30, early_stop_delta=1e-06)
+{'epochs': 10000, 'batch_size': 2048, 'validation_intervals': 30, 'learning_rate': 0.0001, 'early_stop_patience': 30, 'early_stop_delta': 1e-06, 'weight_decay': 0.0}
+/data/2_data_server/nlp-05/KOREATECH/2024-2_DL/link_dl
+Namespace(wandb=True, batch_size=2048, epochs=10000, learning_rate=0.0001, weight_decay=0.0, validation_intervals=30, early_stop_patience=30, early_stop_delta=1e-06)
+{'epochs': 10000, 'batch_size': 2048, 'validation_intervals': 30, 'learning_rate': 0.0001, 'early_stop_patience': 30, 'early_stop_delta': 1e-06, 'weight_decay': 0.0}
+Namespace(wandb=True, batch_size=2048, epochs=10000, learning_rate=0.0001, weight_decay=0.0, validation_intervals=30, early_stop_patience=30, early_stop_delta=1e-06)
+{'epochs': 10000, 'batch_size': 2048, 'validation_intervals': 30, 'learning_rate': 0.0001, 'early_stop_patience': 30, 'early_stop_delta': 1e-06, 'weight_decay': 0.0}
+Namespace(wandb=True, batch_size=2048, epochs=10000, learning_rate=0.0001, weight_decay=0.0, validation_intervals=30, early_stop_patience=30, early_stop_delta=1e-06)
+{'epochs': 10000, 'batch_size': 2048, 'validation_intervals': 30, 'learning_rate': 0.0001, 'early_stop_patience': 30, 'early_stop_delta': 1e-06, 'weight_decay': 0.0}
+Training on device cuda:0.
+[Epoch   1] T_loss: 11.07785, V_loss: 82.71436, Early stopping is stated! | T_time: 00:00:00, T_speed: 0.002
+[Epoch  30] T_loss: 7.59770, V_loss: 55.25005, V_loss decreased (82.71436 --> 55.25005). Saving model... | T_time: 00:00:01, T_speed: 0.085
+[Epoch  60] T_loss: 0.87311, V_loss: 13.04340, V_loss decreased (55.25005 --> 13.04340). Saving model... | T_time: 00:00:02, T_speed: 0.390
+[Epoch  90] T_loss: 0.44791, V_loss: 9.10049, V_loss decreased (13.04340 --> 9.10049). Saving model... | T_time: 00:00:03, T_speed: 1.523
+[Epoch 120] T_loss: 0.31174, V_loss: 6.50795, V_loss decreased (9.10049 --> 6.50795). Saving model... | T_time: 00:00:03, T_speed: 0.138
+[Epoch 150] T_loss: 0.22300, V_loss: 4.93444, V_loss decreased (6.50795 --> 4.93444). Saving model... | T_time: 00:00:04, T_speed: 0.197
+[Epoch 180] T_loss: 0.15218, V_loss: 3.73059, V_loss decreased (4.93444 --> 3.73059). Saving model... | T_time: 00:00:05, T_speed: 0.317
+[Epoch 210] T_loss: 0.11047, V_loss: 2.92146, V_loss decreased (3.73059 --> 2.92146). Saving model... | T_time: 00:00:06, T_speed: 0.559
+[Epoch 240] T_loss: 0.08769, V_loss: 2.44451, V_loss decreased (2.92146 --> 2.44451). Saving model... | T_time: 00:00:07, T_speed: 0.718
+[Epoch 270] T_loss: 0.07379, V_loss: 2.15119, V_loss decreased (2.44451 --> 2.15119). Saving model... | T_time: 00:00:08, T_speed: 2.101
+[Epoch 300] T_loss: 0.06576, V_loss: 1.95611, V_loss decreased (2.15119 --> 1.95611). Saving model... | T_time: 00:00:08, T_speed: 0.326
+[Epoch 330] T_loss: 0.05976, V_loss: 1.82130, V_loss decreased (1.95611 --> 1.82130). Saving model... | T_time: 00:00:09, T_speed: 0.407
+[Epoch 360] T_loss: 0.05541, V_loss: 1.72229, V_loss decreased (1.82130 --> 1.72229). Saving model... | T_time: 00:00:10, T_speed: 0.575
+[Epoch 390] T_loss: 0.05232, V_loss: 1.64847, V_loss decreased (1.72229 --> 1.64847). Saving model... | T_time: 00:00:11, T_speed: 0.939
+[Epoch 420] T_loss: 0.04962, V_loss: 1.59033, V_loss decreased (1.64847 --> 1.59033). Saving model... | T_time: 00:00:12, T_speed: 1.299
+[Epoch 450] T_loss: 0.04741, V_loss: 1.54041, V_loss decreased (1.59033 --> 1.54041). Saving model... | T_time: 00:00:13, T_speed: 3.475
+[Epoch 480] T_loss: 0.04563, V_loss: 1.49392, V_loss decreased (1.54041 --> 1.49392). Saving model... | T_time: 00:00:14, T_speed: 13.858
+[Epoch 510] T_loss: 0.04424, V_loss: 1.44857, V_loss decreased (1.49392 --> 1.44857). Saving model... | T_time: 00:00:14, T_speed: 0.626
+[Epoch 540] T_loss: 0.04147, V_loss: 1.41163, V_loss decreased (1.44857 --> 1.41163). Saving model... | T_time: 00:00:15, T_speed: 0.891
+[Epoch 570] T_loss: 0.04016, V_loss: 1.37401, V_loss decreased (1.41163 --> 1.37401). Saving model... | T_time: 00:00:16, T_speed: 1.141
+[Epoch 600] T_loss: 0.03749, V_loss: 1.33749, V_loss decreased (1.37401 --> 1.33749). Saving model... | T_time: 00:00:17, T_speed: 2.098
+[Epoch 630] T_loss: 0.03576, V_loss: 1.30228, V_loss decreased (1.33749 --> 1.30228). Saving model... | T_time: 00:00:18, T_speed: 8.690
+[Epoch 660] T_loss: 0.03400, V_loss: 1.26859, V_loss decreased (1.30228 --> 1.26859). Saving model... | T_time: 00:00:18, T_speed: 0.680
+[Epoch 690] T_loss: 0.03277, V_loss: 1.23882, V_loss decreased (1.26859 --> 1.23882). Saving model... | T_time: 00:00:19, T_speed: 0.912
+[Epoch 720] T_loss: 0.03148, V_loss: 1.21037, V_loss decreased (1.23882 --> 1.21037). Saving model... | T_time: 00:00:20, T_speed: 1.078
+[Epoch 750] T_loss: 0.03101, V_loss: 1.18324, V_loss decreased (1.21037 --> 1.18324). Saving model... | T_time: 00:00:21, T_speed: 1.594
+[Epoch 780] T_loss: 0.03021, V_loss: 1.15780, V_loss decreased (1.18324 --> 1.15780). Saving model... | T_time: 00:00:22, T_speed: 3.193
+[Epoch 810] T_loss: 0.02937, V_loss: 1.13264, V_loss decreased (1.15780 --> 1.13264). Saving model... | T_time: 00:00:23, T_speed: 16.340
+[Epoch 840] T_loss: 0.02848, V_loss: 1.10805, V_loss decreased (1.13264 --> 1.10805). Saving model... | T_time: 00:00:24, T_speed: 157.628
+[Epoch 870] T_loss: 0.02793, V_loss: 1.08447, V_loss decreased (1.10805 --> 1.08447). Saving model... | T_time: 00:00:24, T_speed: 1.034
+[Epoch 900] T_loss: 0.02688, V_loss: 1.06336, V_loss decreased (1.08447 --> 1.06336). Saving model... | T_time: 00:00:25, T_speed: 1.196
+[Epoch 930] T_loss: 0.02663, V_loss: 1.04214, V_loss decreased (1.06336 --> 1.04214). Saving model... | T_time: 00:00:26, T_speed: 1.577
+[Epoch 960] T_loss: 0.02572, V_loss: 1.01907, V_loss decreased (1.04214 --> 1.01907). Saving model... | T_time: 00:00:27, T_speed: 2.652
+[Epoch 990] T_loss: 0.02546, V_loss: 1.00015, V_loss decreased (1.01907 --> 1.00015). Saving model... | T_time: 00:00:28, T_speed: 3.909
+[Epoch 1020] T_loss: 0.02466, V_loss: 0.97978, V_loss decreased (1.00015 --> 0.97978). Saving model... | T_time: 00:00:29, T_speed: 45.931
+[Epoch 1050] T_loss: 0.02430, V_loss: 0.95928, V_loss decreased (0.97978 --> 0.95928). Saving model... | T_time: 00:00:29, T_speed: 1.174
+[Epoch 1080] T_loss: 0.02334, V_loss: 0.94166, V_loss decreased (0.95928 --> 0.94166). Saving model... | T_time: 00:00:30, T_speed: 1.548
+[Epoch 1110] T_loss: 0.02297, V_loss: 0.92054, V_loss decreased (0.94166 --> 0.92054). Saving model... | T_time: 00:00:31, T_speed: 2.301
+[Epoch 1140] T_loss: 0.02244, V_loss: 0.90159, V_loss decreased (0.92054 --> 0.90159). Saving model... | T_time: 00:00:32, T_speed: 4.253
+[Epoch 1170] T_loss: 0.02204, V_loss: 0.88426, V_loss decreased (0.90159 --> 0.88426). Saving model... | T_time: 00:00:33, T_speed: 7.016
+[Epoch 1200] T_loss: 0.02174, V_loss: 0.86507, V_loss decreased (0.88426 --> 0.86507). Saving model... | T_time: 00:00:33, T_speed: 1.257
+[Epoch 1230] T_loss: 0.02117, V_loss: 0.84612, V_loss decreased (0.86507 --> 0.84612). Saving model... | T_time: 00:00:34, T_speed: 1.452
+[Epoch 1260] T_loss: 0.02074, V_loss: 0.83031, V_loss decreased (0.84612 --> 0.83031). Saving model... | T_time: 00:00:35, T_speed: 1.872
+[Epoch 1290] T_loss: 0.02004, V_loss: 0.81281, V_loss decreased (0.83031 --> 0.81281). Saving model... | T_time: 00:00:36, T_speed: 2.793
+[Epoch 1320] T_loss: 0.01969, V_loss: 0.79558, V_loss decreased (0.81281 --> 0.79558). Saving model... | T_time: 00:00:37, T_speed: 3.652
+[Epoch 1350] T_loss: 0.01929, V_loss: 0.77961, V_loss decreased (0.79558 --> 0.77961). Saving model... | T_time: 00:00:38, T_speed: 10.226
+[Epoch 1380] T_loss: 0.01883, V_loss: 0.76479, V_loss decreased (0.77961 --> 0.76479). Saving model... | T_time: 00:00:39, T_speed: 43.556
+[Epoch 1410] T_loss: 0.01900, V_loss: 0.75103, V_loss decreased (0.76479 --> 0.75103). Saving model... | T_time: 00:00:39, T_speed: 1.706
+[Epoch 1440] T_loss: 0.01857, V_loss: 0.73753, V_loss decreased (0.75103 --> 0.73753). Saving model... | T_time: 00:00:40, T_speed: 2.316
+[Epoch 1470] T_loss: 0.01832, V_loss: 0.72438, V_loss decreased (0.73753 --> 0.72438). Saving model... | T_time: 00:00:41, T_speed: 2.780
+[Epoch 1500] T_loss: 0.01805, V_loss: 0.71181, V_loss decreased (0.72438 --> 0.71181). Saving model... | T_time: 00:00:42, T_speed: 5.013
+[Epoch 1530] T_loss: 0.01807, V_loss: 0.69795, V_loss decreased (0.71181 --> 0.69795). Saving model... | T_time: 00:00:43, T_speed: 16.721
+[Epoch 1560] T_loss: 0.01765, V_loss: 0.68783, V_loss decreased (0.69795 --> 0.68783). Saving model... | T_time: 00:00:43, T_speed: 1.606
+[Epoch 1590] T_loss: 0.01747, V_loss: 0.67663, V_loss decreased (0.68783 --> 0.67663). Saving model... | T_time: 00:00:44, T_speed: 2.137
+[Epoch 1620] T_loss: 0.01736, V_loss: 0.66715, V_loss decreased (0.67663 --> 0.66715). Saving model... | T_time: 00:00:45, T_speed: 3.033
+[Epoch 1650] T_loss: 0.01693, V_loss: 0.65888, V_loss decreased (0.66715 --> 0.65888). Saving model... | T_time: 00:00:46, T_speed: 3.305
+[Epoch 1680] T_loss: 0.01680, V_loss: 0.64876, V_loss decreased (0.65888 --> 0.64876). Saving model... | T_time: 00:00:47, T_speed: 5.879
+[Epoch 1710] T_loss: 0.01684, V_loss: 0.64212, V_loss decreased (0.64876 --> 0.64212). Saving model... | T_time: 00:00:48, T_speed: 19.272
+[Epoch 1740] T_loss: 0.01645, V_loss: 0.63429, V_loss decreased (0.64212 --> 0.63429). Saving model... | T_time: 00:00:49, T_speed: 186.715
+[Epoch 1770] T_loss: 0.01617, V_loss: 0.62481, V_loss decreased (0.63429 --> 0.62481). Saving model... | T_time: 00:00:49, T_speed: 2.186
+[Epoch 1800] T_loss: 0.01594, V_loss: 0.61724, V_loss decreased (0.62481 --> 0.61724). Saving model... | T_time: 00:00:50, T_speed: 2.561
+[Epoch 1830] T_loss: 0.01564, V_loss: 0.60663, V_loss decreased (0.61724 --> 0.60663). Saving model... | T_time: 00:00:51, T_speed: 3.867
+[Epoch 1860] T_loss: 0.01527, V_loss: 0.59961, V_loss decreased (0.60663 --> 0.59961). Saving model... | T_time: 00:00:52, T_speed: 6.483
+[Epoch 1890] T_loss: 0.01530, V_loss: 0.58921, V_loss decreased (0.59961 --> 0.58921). Saving model... | T_time: 00:00:53, T_speed: 18.199
+[Epoch 1920] T_loss: 0.01531, V_loss: 0.58328, V_loss decreased (0.58921 --> 0.58328). Saving model... | T_time: 00:00:53, T_speed: 1.944
+[Epoch 1950] T_loss: 0.01504, V_loss: 0.57596, V_loss decreased (0.58328 --> 0.57596). Saving model... | T_time: 00:00:54, T_speed: 2.548
+[Epoch 1980] T_loss: 0.01486, V_loss: 0.56858, V_loss decreased (0.57596 --> 0.56858). Saving model... | T_time: 00:00:55, T_speed: 2.935
+[Epoch 2010] T_loss: 0.01444, V_loss: 0.56151, V_loss decreased (0.56858 --> 0.56151). Saving model... | T_time: 00:00:56, T_speed: 4.471
+[Epoch 2040] T_loss: 0.01446, V_loss: 0.55250, V_loss decreased (0.56151 --> 0.55250). Saving model... | T_time: 00:00:57, T_speed: 7.567
+[Epoch 2070] T_loss: 0.01442, V_loss: 0.54723, V_loss decreased (0.55250 --> 0.54723). Saving model... | T_time: 00:00:58, T_speed: 13.385
+[Epoch 2100] T_loss: 0.01426, V_loss: 0.53898, V_loss decreased (0.54723 --> 0.53898). Saving model... | T_time: 00:00:58, T_speed: 2.115
+[Epoch 2130] T_loss: 0.01416, V_loss: 0.53432, V_loss decreased (0.53898 --> 0.53432). Saving model... | T_time: 00:00:59, T_speed: 2.407
+[Epoch 2160] T_loss: 0.01401, V_loss: 0.52691, V_loss decreased (0.53432 --> 0.52691). Saving model... | T_time: 00:01:00, T_speed: 3.141
+[Epoch 2190] T_loss: 0.01375, V_loss: 0.52242, V_loss decreased (0.52691 --> 0.52242). Saving model... | T_time: 00:01:01, T_speed: 4.495
+[Epoch 2220] T_loss: 0.01358, V_loss: 0.51401, V_loss decreased (0.52242 --> 0.51401). Saving model... | T_time: 00:01:02, T_speed: 5.899
+[Epoch 2250] T_loss: 0.01330, V_loss: 0.51069, V_loss decreased (0.51401 --> 0.51069). Saving model... | T_time: 00:01:03, T_speed: 14.890
+[Epoch 2280] T_loss: 0.01343, V_loss: 0.50402, V_loss decreased (0.51069 --> 0.50402). Saving model... | T_time: 00:01:04, T_speed: 36.433
+[Epoch 2310] T_loss: 0.01328, V_loss: 0.50011, V_loss decreased (0.50402 --> 0.50011). Saving model... | T_time: 00:01:04, T_speed: 2.819
+[Epoch 2340] T_loss: 0.01295, V_loss: 0.49659, V_loss decreased (0.50011 --> 0.49659). Saving model... | T_time: 00:01:05, T_speed: 4.077
+[Epoch 2370] T_loss: 0.01302, V_loss: 0.48918, V_loss decreased (0.49659 --> 0.48918). Saving model... | T_time: 00:01:06, T_speed: 6.106
+[Epoch 2400] T_loss: 0.01275, V_loss: 0.48780, V_loss decreased (0.48918 --> 0.48780). Saving model... | T_time: 00:01:07, T_speed: 7.840
+[Epoch 2430] T_loss: 0.01281, V_loss: 0.47938, V_loss decreased (0.48780 --> 0.47938). Saving model... | T_time: 00:01:08, T_speed: 30.057
+[Epoch 2460] T_loss: 0.01253, V_loss: 0.47800, V_loss decreased (0.47938 --> 0.47800). Saving model... | T_time: 00:01:09, T_speed: 994.341
+[Epoch 2490] T_loss: 0.01244, V_loss: 0.47306, V_loss decreased (0.47800 --> 0.47306). Saving model... | T_time: 00:01:09, T_speed: 3.297
+[Epoch 2520] T_loss: 0.01235, V_loss: 0.47009, V_loss decreased (0.47306 --> 0.47009). Saving model... | T_time: 00:01:10, T_speed: 4.832
+[Epoch 2550] T_loss: 0.01229, V_loss: 0.46535, V_loss decreased (0.47009 --> 0.46535). Saving model... | T_time: 00:01:11, T_speed: 6.392
+[Epoch 2580] T_loss: 0.01207, V_loss: 0.46363, V_loss decreased (0.46535 --> 0.46363). Saving model... | T_time: 00:01:12, T_speed: 17.068
+[Epoch 2610] T_loss: 0.01224, V_loss: 0.46256, V_loss decreased (0.46363 --> 0.46256). Saving model... | T_time: 00:01:12, T_speed: 2.732
+[Epoch 2640] T_loss: 0.01196, V_loss: 0.45884, V_loss decreased (0.46256 --> 0.45884). Saving model... | T_time: 00:01:13, T_speed: 3.079
+[Epoch 2670] T_loss: 0.01197, V_loss: 0.45525, V_loss decreased (0.45884 --> 0.45525). Saving model... | T_time: 00:01:14, T_speed: 4.331
+[Epoch 2700] T_loss: 0.01177, V_loss: 0.45219, V_loss decreased (0.45525 --> 0.45219). Saving model... | T_time: 00:01:15, T_speed: 7.293
+[Epoch 2730] T_loss: 0.01191, V_loss: 0.45804, Early stopping counter: 1 out of 30 | T_time: 00:01:16, T_speed: 5.012
+[Epoch 2760] T_loss: 0.01159, V_loss: 0.45058, V_loss decreased (0.45219 --> 0.45058). Saving model... | T_time: 00:01:17, T_speed: 9.919
+[Epoch 2790] T_loss: 0.01155, V_loss: 0.45058, V_loss decreased (0.45058 --> 0.45058). Saving model... | T_time: 00:01:18, T_speed: 17.474
+[Epoch 2820] T_loss: 0.01137, V_loss: 0.44784, V_loss decreased (0.45058 --> 0.44784). Saving model... | T_time: 00:01:18, T_speed: 2.976
+[Epoch 2850] T_loss: 0.01128, V_loss: 0.44635, V_loss decreased (0.44784 --> 0.44635). Saving model... | T_time: 00:01:19, T_speed: 4.030
+[Epoch 2880] T_loss: 0.01128, V_loss: 0.45477, Early stopping counter: 1 out of 30 | T_time: 00:01:20, T_speed: 4.984
+[Epoch 2910] T_loss: 0.01152, V_loss: 0.45033, Early stopping counter: 2 out of 30 | T_time: 00:01:21, T_speed: 9.511
+[Epoch 2940] T_loss: 0.01129, V_loss: 0.44747, Early stopping counter: 3 out of 30 | T_time: 00:01:22, T_speed: 86.440
+[Epoch 2970] T_loss: 0.01107, V_loss: 0.44967, Early stopping counter: 4 out of 30 | T_time: 00:01:22, T_speed: 3.422
+[Epoch 3000] T_loss: 0.01125, V_loss: 0.44804, Early stopping counter: 5 out of 30 | T_time: 00:01:23, T_speed: 4.859
+[Epoch 3030] T_loss: 0.01086, V_loss: 0.45038, Early stopping counter: 6 out of 30 | T_time: 00:01:24, T_speed: 6.856
+[Epoch 3060] T_loss: 0.01085, V_loss: 0.45308, Early stopping counter: 7 out of 30 | T_time: 00:01:25, T_speed: 17.589
+[Epoch 3090] T_loss: 0.01100, V_loss: 0.45392, Early stopping counter: 8 out of 30 | T_time: 00:01:25, T_speed: 3.440
+[Epoch 3120] T_loss: 0.01100, V_loss: 0.45498, Early stopping counter: 9 out of 30 | T_time: 00:01:26, T_speed: 5.011
+[Epoch 3150] T_loss: 0.01082, V_loss: 0.45448, Early stopping counter: 10 out of 30 | T_time: 00:01:27, T_speed: 7.011
+[Epoch 3180] T_loss: 0.01083, V_loss: 0.46061, Early stopping counter: 11 out of 30 | T_time: 00:01:28, T_speed: 17.754
+[Epoch 3210] T_loss: 0.01061, V_loss: 0.46278, Early stopping counter: 12 out of 30 | T_time: 00:01:29, T_speed: 77.069
+[Epoch 3240] T_loss: 0.01077, V_loss: 0.46722, Early stopping counter: 13 out of 30 | T_time: 00:01:29, T_speed: 4.180
+[Epoch 3270] T_loss: 0.01061, V_loss: 0.47372, Early stopping counter: 14 out of 30 | T_time: 00:01:30, T_speed: 6.465
+[Epoch 3300] T_loss: 0.01068, V_loss: 0.47949, Early stopping counter: 15 out of 30 | T_time: 00:01:31, T_speed: 9.784
+[Epoch 3330] T_loss: 0.01067, V_loss: 0.47757, Early stopping counter: 16 out of 30 | T_time: 00:01:32, T_speed: 56.280
+[Epoch 3360] T_loss: 0.01071, V_loss: 0.48062, Early stopping counter: 17 out of 30 | T_time: 00:01:32, T_speed: 3.796
+[Epoch 3390] T_loss: 0.01064, V_loss: 0.47986, Early stopping counter: 18 out of 30 | T_time: 00:01:33, T_speed: 5.525
+[Epoch 3420] T_loss: 0.01058, V_loss: 0.49377, Early stopping counter: 19 out of 30 | T_time: 00:01:34, T_speed: 9.489
+[Epoch 3450] T_loss: 0.01054, V_loss: 0.49276, Early stopping counter: 20 out of 30 | T_time: 00:01:35, T_speed: 39.736
+[Epoch 3480] T_loss: 0.01040, V_loss: 0.49621, Early stopping counter: 21 out of 30 | T_time: 00:01:35, T_speed: 3.796
+[Epoch 3510] T_loss: 0.01067, V_loss: 0.49037, Early stopping counter: 22 out of 30 | T_time: 00:01:36, T_speed: 5.312
+[Epoch 3540] T_loss: 0.01035, V_loss: 0.50141, Early stopping counter: 23 out of 30 | T_time: 00:01:37, T_speed: 7.152
+[Epoch 3570] T_loss: 0.01027, V_loss: 0.50355, Early stopping counter: 24 out of 30 | T_time: 00:01:38, T_speed: 15.607
+[Epoch 3600] T_loss: 0.01030, V_loss: 0.50638, Early stopping counter: 25 out of 30 | T_time: 00:01:38, T_speed: 3.740
+[Epoch 3630] T_loss: 0.01043, V_loss: 0.50320, Early stopping counter: 26 out of 30 | T_time: 00:01:39, T_speed: 4.546
+[Epoch 3660] T_loss: 0.01010, V_loss: 0.50421, Early stopping counter: 27 out of 30 | T_time: 00:01:40, T_speed: 6.754
+[Epoch 3690] T_loss: 0.01011, V_loss: 0.50865, Early stopping counter: 28 out of 30 | T_time: 00:01:41, T_speed: 9.876
+[Epoch 3720] T_loss: 0.01022, V_loss: 0.51070, Early stopping counter: 29 out of 30 | T_time: 00:01:42, T_speed: 36.752
+[Epoch 3750] T_loss: 0.01016, V_loss: 0.51552, Early stopping counter: 30 out of 30 *** TRAIN EARLY STOPPED! *** | T_time: 00:01:42, T_speed: 4.513
+Final training time: 00:01:42
